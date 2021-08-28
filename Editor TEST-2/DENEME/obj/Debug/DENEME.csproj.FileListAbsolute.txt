@@ -1,0 +1,2 @@
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\DENEME\obj\Debug\DENEME.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\DENEME\obj\Debug\DENEME.csproj.CoreCompileInputs.cache
