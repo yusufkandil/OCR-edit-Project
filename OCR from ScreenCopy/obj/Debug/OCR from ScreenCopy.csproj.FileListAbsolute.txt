@@ -1,0 +1,462 @@
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.exe.config
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.exe
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.pdb
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.Properties.Resources.resources
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.GenerateResource.cache
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.CoreCompileInputs.cache
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.exe
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.pdb
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy\OCR from ScreenCopy\bin\Debug\x64\liblept172.dll
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy\OCR from ScreenCopy\bin\Debug\x64\libtesseract304.dll
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy\OCR from ScreenCopy\bin\Debug\x86\liblept172.dll
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy\OCR from ScreenCopy\bin\Debug\x86\libtesseract304.dll
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.bigrams
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.fold
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.lm
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.nn
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.params
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.size
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.word-freq
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy\OCR from ScreenCopy\bin\Debug\tessdata\eng.tesseract_cube.nn
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy\OCR from ScreenCopy\bin\Debug\tessdata\eng.traineddata
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy\OCR from ScreenCopy\bin\Debug\Tesseract.dll
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy\OCR from ScreenCopy\bin\Debug\Tesseract.xml
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.CopyComplete
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.FormOCR.resources
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\x64\liblept172.dll
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\x64\libtesseract304.dll
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\x86\liblept172.dll
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\x86\libtesseract304.dll
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.bigrams
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.fold
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.lm
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.nn
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.params
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.size
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.word-freq
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\tessdata\eng.tesseract_cube.nn
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\tessdata\eng.traineddata
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.exe.config
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.exe
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.pdb
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\Tesseract.dll
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\Tesseract.xml
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy 0\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csprojAssemblyReference.cache
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy 0\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.FormOCR.resources
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy 0\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.Properties.Resources.resources
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy 0\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.GenerateResource.cache
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy 0\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.CoreCompileInputs.cache
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy 0\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.CopyComplete
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy 0\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.exe
+C:\Users\Jason A6\source\repos\OCR from ScreenCopy 0\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.pdb
+C:\Users\Jason A6\Desktop\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\x64\liblept172.dll
+C:\Users\Jason A6\Desktop\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\x64\libtesseract304.dll
+C:\Users\Jason A6\Desktop\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\x86\liblept172.dll
+C:\Users\Jason A6\Desktop\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\x86\libtesseract304.dll
+C:\Users\Jason A6\Desktop\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.bigrams
+C:\Users\Jason A6\Desktop\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.fold
+C:\Users\Jason A6\Desktop\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.lm
+C:\Users\Jason A6\Desktop\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.nn
+C:\Users\Jason A6\Desktop\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.params
+C:\Users\Jason A6\Desktop\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.size
+C:\Users\Jason A6\Desktop\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.word-freq
+C:\Users\Jason A6\Desktop\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\tessdata\eng.tesseract_cube.nn
+C:\Users\Jason A6\Desktop\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\tessdata\eng.traineddata
+C:\Users\Jason A6\Desktop\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.exe.config
+C:\Users\Jason A6\Desktop\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.exe
+C:\Users\Jason A6\Desktop\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.pdb
+C:\Users\Jason A6\Desktop\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\Tesseract.dll
+C:\Users\Jason A6\Desktop\OCR from ScreenCopy 0\OCR from ScreenCopy\bin\Debug\Tesseract.xml
+C:\Users\Jason A6\Desktop\OCR from ScreenCopy 0\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csprojAssemblyReference.cache
+C:\Users\Jason A6\Desktop\OCR from ScreenCopy 0\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.FormOCR.resources
+C:\Users\Jason A6\Desktop\OCR from ScreenCopy 0\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.Properties.Resources.resources
+C:\Users\Jason A6\Desktop\OCR from ScreenCopy 0\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.GenerateResource.cache
+C:\Users\Jason A6\Desktop\OCR from ScreenCopy 0\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.CoreCompileInputs.cache
+C:\Users\Jason A6\Desktop\OCR from ScreenCopy 0\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.CopyComplete
+C:\Users\Jason A6\Desktop\OCR from ScreenCopy 0\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.exe
+C:\Users\Jason A6\Desktop\OCR from ScreenCopy 0\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.pdb
+C:\OCR\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\x64\liblept172.dll
+C:\OCR\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\x64\libtesseract304.dll
+C:\OCR\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\x86\liblept172.dll
+C:\OCR\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\x86\libtesseract304.dll
+C:\OCR\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.bigrams
+C:\OCR\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.fold
+C:\OCR\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.lm
+C:\OCR\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.nn
+C:\OCR\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.params
+C:\OCR\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.size
+C:\OCR\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.word-freq
+C:\OCR\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\tessdata\eng.tesseract_cube.nn
+C:\OCR\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\tessdata\eng.traineddata
+C:\OCR\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.exe.config
+C:\OCR\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.exe
+C:\OCR\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.pdb
+C:\OCR\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\Tesseract.dll
+C:\OCR\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\Tesseract.xml
+C:\OCR\OCR from ScreenCopy2\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.FormOCR.resources
+C:\OCR\OCR from ScreenCopy2\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.Properties.Resources.resources
+C:\OCR\OCR from ScreenCopy2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.GenerateResource.cache
+C:\OCR\OCR from ScreenCopy2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.CoreCompileInputs.cache
+C:\OCR\OCR from ScreenCopy2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.CopyComplete
+C:\OCR\OCR from ScreenCopy2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.exe
+C:\OCR\OCR from ScreenCopy2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.pdb
+C:\OCR\OCR from ScreenCopy3\OCR from ScreenCopy\bin\Debug\x64\liblept172.dll
+C:\OCR\OCR from ScreenCopy3\OCR from ScreenCopy\bin\Debug\x64\libtesseract304.dll
+C:\OCR\OCR from ScreenCopy3\OCR from ScreenCopy\bin\Debug\x86\liblept172.dll
+C:\OCR\OCR from ScreenCopy3\OCR from ScreenCopy\bin\Debug\x86\libtesseract304.dll
+C:\OCR\OCR from ScreenCopy3\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.bigrams
+C:\OCR\OCR from ScreenCopy3\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.fold
+C:\OCR\OCR from ScreenCopy3\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.lm
+C:\OCR\OCR from ScreenCopy3\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.nn
+C:\OCR\OCR from ScreenCopy3\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.params
+C:\OCR\OCR from ScreenCopy3\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.size
+C:\OCR\OCR from ScreenCopy3\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.word-freq
+C:\OCR\OCR from ScreenCopy3\OCR from ScreenCopy\bin\Debug\tessdata\eng.tesseract_cube.nn
+C:\OCR\OCR from ScreenCopy3\OCR from ScreenCopy\bin\Debug\tessdata\eng.traineddata
+C:\OCR\OCR from ScreenCopy3\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.exe.config
+C:\OCR\OCR from ScreenCopy3\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.exe
+C:\OCR\OCR from ScreenCopy3\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.pdb
+C:\OCR\OCR from ScreenCopy3\OCR from ScreenCopy\bin\Debug\Tesseract.dll
+C:\OCR\OCR from ScreenCopy3\OCR from ScreenCopy\bin\Debug\Tesseract.xml
+C:\OCR\OCR from ScreenCopy3\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.FormOCR.resources
+C:\OCR\OCR from ScreenCopy3\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.Properties.Resources.resources
+C:\OCR\OCR from ScreenCopy3\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.GenerateResource.cache
+C:\OCR\OCR from ScreenCopy3\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.CoreCompileInputs.cache
+C:\OCR\OCR from ScreenCopy3\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.CopyComplete
+C:\OCR\OCR from ScreenCopy3\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.exe
+C:\OCR\OCR from ScreenCopy3\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.pdb
+C:\OCR\OCR from ScreenCopy3\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csprojAssemblyReference.cache
+C:\OCR\OCR from ScreenCopy3\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.FormText.resources
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.bigrams
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.fold
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.lm
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.nn
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.params
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.size
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.word-freq
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\tessdata\eng.tesseract_cube.nn
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\tessdata\eng.traineddata
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.exe.config
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.exe
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.pdb
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\Tesseract.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.FormOCR.resources
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.FormText.resources
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.Properties.Resources.resources
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.CopyComplete
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.exe
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.pdb
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\IronOcr.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\x86\tesseract41.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\x64\tesseract41.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.exe.licenses
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.ResolveComReference.cache
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\obj\Debug\Program.resources
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.WinAPI.resources
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\obj\Debug\MouseSpeedSwitcher.Program.resources
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.A1.resources
+C:\Users\Acer\Desktop\OCR from ScreenCopy2\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.AA.resources
+C:\Users\Acer\Desktop\COPY\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\COPY\OCR from ScreenCopy\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\Acer\Desktop\COPY\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.ResolveComReference.cache
+C:\Users\Acer\Desktop\COPY\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.FormOCR.resources
+C:\Users\Acer\Desktop\COPY\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.FormText.resources
+C:\Users\Acer\Desktop\COPY\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.Properties.Resources.resources
+C:\Users\Acer\Desktop\COPY\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\COPY\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.exe.licenses
+C:\Users\Acer\Desktop\COPY\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\COPY\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.exe
+C:\Users\Acer\Desktop\COPY\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.pdb
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.ResolveComReference.cache
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.FormOCR.resources
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.FormText.resources
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.Properties.Resources.resources
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.exe.licenses
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.exe
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.pdb
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.bigrams
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.fold
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.lm
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.nn
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.params
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.size
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.word-freq
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\tessdata\eng.tesseract_cube.nn
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\tessdata\eng.traineddata
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.exe.config
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.exe
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.pdb
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\Tesseract.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\DevExpress.XtraBars.v20.2.xml
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.CopyComplete
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.exe.manifest
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.application
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.exe.manifest
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.application
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.FormText2.resources
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\x86\tesseract41.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\x64\tesseract41.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\DevExpress.XtraBars.v20.2.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\Acer\Desktop\COPY-2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.FormOCR.resources
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.FormText.resources
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.FormText2.resources
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.Properties.Resources.resources
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.exe.licenses
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.exe
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.pdb
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\x86\tesseract41.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\x64\tesseract41.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.bigrams
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.fold
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.lm
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.nn
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.params
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.size
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.word-freq
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\tessdata\eng.tesseract_cube.nn
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\tessdata\eng.traineddata
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.exe.config
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.exe.manifest
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.application
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.exe
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.pdb
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\Tesseract.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\DevExpress.XtraBars.v20.2.xml
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.exe.manifest
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.application
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\Vintasoft.Imaging.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\Vintasoft.Imaging.Ocr.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\Vintasoft.Imaging.Ocr.Tesseract.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\Vintasoft.Shared.dll
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\Vintasoft.Imaging.xml
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\Vintasoft.Imaging.Ocr.xml
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\Vintasoft.Imaging.Ocr.Tesseract.xml
+C:\Users\user\Desktop\Editor TEST-2\OCR from ScreenCopy\bin\Debug\Vintasoft.Shared.xml
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.bigrams
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.fold
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.lm
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.nn
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.params
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.size
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\tessdata\eng.cube.word-freq
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\tessdata\eng.tesseract_cube.nn
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\tessdata\eng.traineddata
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.exe.config
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.exe.manifest
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.application
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.exe
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\OCR from ScreenCopy.pdb
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\Tesseract.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\Vintasoft.Imaging.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\Vintasoft.Imaging.Ocr.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\Vintasoft.Imaging.Ocr.Tesseract.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\Vintasoft.Shared.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\DevExpress.XtraBars.v20.2.xml
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\Vintasoft.Imaging.xml
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\Vintasoft.Imaging.Ocr.xml
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\Vintasoft.Imaging.Ocr.Tesseract.xml
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\Vintasoft.Shared.xml
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.FormOCR.resources
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.FormText.resources
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.FormText2.resources
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\obj\Debug\OCR_from_ScreenCopy.Properties.Resources.resources
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.exe.licenses
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.exe.manifest
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.application
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.exe
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\obj\Debug\OCR from ScreenCopy.pdb
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\x64\liblept172.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\x64\libtesseract304.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\x86\liblept172.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\x86\libtesseract304.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\Tesseract.xml
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\user\Desktop\Editor TEST-1 - Kopya\OCR from ScreenCopy\bin\Debug\Guna.UI2.dll
